@@ -67,7 +67,7 @@ The tutorial is divided into two steps. The first step involves using a Python p
 
 Implementation: Concatenate translated subtitles with English subtitles.
 
-Place the original English subtitle file, translated subtitle file, and the corresponding program in the same folder. Modify the file names according to the comments in the program. Then, run the program, and you will obtain the created bilingual subtitle file named `output.stringtablebundle` !
+Place the original English subtitle file, translated subtitle file, and the program `create.py` in the same folder. Modify the file names according to the comments in the program. Then, run the program, and you will obtain the created bilingual subtitle file named `output.stringtablebundle` !
 
 
 
