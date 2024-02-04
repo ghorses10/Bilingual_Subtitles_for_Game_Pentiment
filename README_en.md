@@ -38,11 +38,11 @@ With this patch, you can:
 
 The effects of this patch are illustrated in the following image: 
 
-![ (1)](photo/ (1).png)
+![ (1)](photo/(1).png)
 
-![ (5)](photo/ (5).png)
+![ (5)](photo/(5).png)
 
-![ (4)](photo/ (4).png)
+![ (4)](photo/(4).png)
 
 
 
@@ -83,7 +83,7 @@ After installation, launch the game and choose English as the language to enable
 
 After applying this patch, making manual modifications to the English subtitles may result in misalignment of characters (to be corrected).
 
-![ (6)](photo/ (6).png)
+![ (6)](photo/(6).png)
 
 
 
