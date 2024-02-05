@@ -6,8 +6,7 @@
     <p>
 </h4>
 
-This is a bilingual subtitles patch designed for the game "Pentiment".
-
+This is a bilingual subtitles patch designed for the game "Pentiment", supporting multiple languages such as Chinese, German, French, and more.
 
 
 ### 免责声明/Disclaimer
